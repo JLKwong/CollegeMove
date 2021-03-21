@@ -10,11 +10,18 @@ Find your college list here:
 
 ## FAQ
 
-How do I use College Move?
+### How do I use College Move?
+Click this link:
 
-Does College Move collect my data?
+`the link`
+
+### Does College Move collect my data?
+No. We tailor college lists based on generic criteria that you can toggle on or off. We do not ask for any personal information or otherwise collect any data to run College Move.
  
-Where can I find the source data?
+### Where can I find the source data?
+The [IPEDS (Integrated Postsecondary Education Data System)](https://nces.ed.gov/ipeds/datacenter/InstitutionByName.aspx?goToReportId=1).
+
+### What's the point of helping community college students create a college list?
 
 
 ```markdown
