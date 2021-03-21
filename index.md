@@ -11,7 +11,7 @@ https://collegemove.sardija.repl.co/
 ## FAQ
 
 ### How do I use College Move?
-Click this link, then, if any of the toggles appeal to you, turn them on to personalize your college list:
+Click [this link](https://collegemove.sardija.repl.co/), then, if any of the toggles appeal to you, turn them on to personalize your college list:
 
 https://collegemove.sardija.repl.co/
 
