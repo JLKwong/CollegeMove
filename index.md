@@ -6,14 +6,14 @@ These data come from IPEDS (Integrated Postsecondary Education Data System), a g
 
 Find your college list here:
 
-`the link`
+https://collegemove.sardija.repl.co/
 
 ## FAQ
 
 ### How do I use College Move?
 Click this link:
 
-`the link`
+https://collegemove.sardija.repl.co/
 
 ### Does College Move collect my data?
 No. We tailor college lists based on generic criteria that you can toggle on or off. We do not ask for any personal information or otherwise collect any data to power College Move.
