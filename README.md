@@ -3,7 +3,7 @@
 College Move helps over **5.6 million community college students** create a list of colleges for transfer by displaying a tailored college list based on **college quality** (instructional spending per student, faculty-to-student ratio, percentage of full-time faculty, and percentage of	tenured faculty) and **peer diversity** (percentage of students of color, women, and men). Specifically, College Move will show lists of colleges divided into 3 categories: reach, target, and safety.
 
 Visit our project here:  
-**https://collegemove.sardija.repl.co/**
+**https://jlkwong.github.io/CollegeMove/**
 
 # FAQ
 
