@@ -25,7 +25,7 @@ All of these colleges will **cover 100% of the cost of attendance** for low-inco
 
 ## Isn't it risky to dedicate 4 colleges on my transfer list to reach schools?
 
-Choosing 2 safety schools and 2 target schools already **guarantees that you'll transfer to a college**. The 4 reach schools give you a decent shot at transfrering to a college with:
+Choosing 2 safety schools and 2 target schools already **guarantees that you'll transfer to a college**. The 4 reach schools give you a decent shot at transferring to a college with:
  - Personalized instruction with **lower student-to-faculty ratios** (class sizes averaging 10 or less)
  - More classes offered, career services, internship opportunities, research opportunities, larger libraries, and higher-quality lab equipment with **more spending per student** ($50,000+ per year)
  - High-quality instruction with **more full-time, tenured professors** who are experts in their fields (80%-100% full-time, ~33% tenured)
