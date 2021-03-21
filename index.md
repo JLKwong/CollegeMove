@@ -6,7 +6,7 @@ These data come from IPEDS (Integrated Postsecondary Education Data System), a g
 
 **Find your college list here:**
 
-**https://collegemove.sardija.repl.co/**
+**[https://collegemove.sardija.repl.co/](https://collegemove.sardija.repl.co/)**
 
 ## FAQ
 
