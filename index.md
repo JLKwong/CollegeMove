@@ -4,7 +4,7 @@ College Move helps over **5.6 million community college students** create a list
 
 These data come from IPEDS (Integrated Postsecondary Education Data System), a government database of aggregated data on postsecondary institutions often used by education researchers. The metrics for college quality were chosen based on research measuring the causal effects of colleges on income (*The Returns to College(s): Estimating Value-Added and Match Effects in Higher Education* by Jack Mountjoy and Brent R. Hickman).
 
-**How many colleges to choose from each College Move category:**  
+## How many colleges to choose from each College Move category:  
 **Reach: 4**  
 **Target: 2**  
 **Safety: 2**
@@ -12,16 +12,16 @@ These data come from IPEDS (Integrated Postsecondary Education Data System), a g
 **Find your college list here:**  
 **[https://collegemove.sardija.repl.co/](https://collegemove.sardija.repl.co/)**
 
-## FAQ
+# FAQ
 
-### How do I use College Move?
+## How do I use College Move?
 Click [this link](https://collegemove.sardija.repl.co/), then, if any of the toggles appeal to you, turn them on to personalize your college list:  
 https://collegemove.sardija.repl.co/
 
-### Does College Move collect my data?
+## Does College Move collect my data?
 No. We tailor college lists based on generic criteria that you can toggle on or off. We do not ask for any personal information or otherwise collect any data to power College Move.
  
-### Where can I find the source data?
+## Where can I find the source data?
 The [IPEDS (Integrated Postsecondary Education Data System)](https://nces.ed.gov/ipeds/datacenter/InstitutionByName.aspx?goToReportId=1).
 
-### What's the point of helping community college students create a college list?
+## What's the point of helping community college students create a college list?
