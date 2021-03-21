@@ -9,15 +9,13 @@ Community college students should create a college list by choosing the followin
 **Target: 2**  
 **Safety: 2**
 
-**Find your college list here:**
-
+**Find your college list here:**  
 **[https://collegemove.sardija.repl.co/](https://collegemove.sardija.repl.co/)**
 
 ## FAQ
 
 ### How do I use College Move?
-Click [this link](https://collegemove.sardija.repl.co/), then, if any of the toggles appeal to you, turn them on to personalize your college list:
-
+Click [this link](https://collegemove.sardija.repl.co/), then, if any of the toggles appeal to you, turn them on to personalize your college list:  
 https://collegemove.sardija.repl.co/
 
 ### Does College Move collect my data?
