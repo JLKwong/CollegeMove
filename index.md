@@ -2,7 +2,7 @@
 
 College Move helps **5.6 million community college students** create a list of colleges for transfer by displaying a tailored college list based on **college quality** (instructional spending per student, faculty-to-student ratio, percentage of full-time faculty, and percentage of	tenured faculty) and **peer diversity** (percentage of POC, women, and men).
 
-These data come from IPEDS (Integrated Postsecondary Education Data System), a government database of aggregated data on postsecondary institution often used by education researchers.
+These data come from IPEDS (Integrated Postsecondary Education Data System), a government database of aggregated data on postsecondary institution often used by education researchers. The metrics for college quality were chosen based on research measuring the causal effects of colleges on income (*The Returns to College(s): Estimating ValueAdded and Match Effects in Higher Education* by Jack Mountjoy and Brent R. Hickman).
 
 ### Markdown
 
