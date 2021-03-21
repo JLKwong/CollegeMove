@@ -21,7 +21,7 @@ By default, the lists in each category will show the colleges that ranked best o
 
 ## Aren't the colleges in your reach list expensive?
 
-All of these colleges will **cover 100% of the cost of attendance** for low-income students, which is less than the cost of community college. You won't have to take a part-time job or student loans to cover your education.
+All of these colleges will **cover 100% of the cost of attendance** for low-income students, which is cheaper than the cost of community college. You won't even have to take a part-time job or student loans to cover your education.
 
 ## Isn't it risky to dedicate 4 colleges on my transfer list to reach schools?
 
