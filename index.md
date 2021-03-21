@@ -4,8 +4,17 @@ College Move helps over **5.6 million community college students** create a list
 
 These data come from IPEDS (Integrated Postsecondary Education Data System), a government database of aggregated data on postsecondary institutions often used by education researchers. The metrics for college quality were chosen based on research measuring the causal effects of colleges on income (*The Returns to College(s): Estimating Value-Added and Match Effects in Higher Education* by Jack Mountjoy and Brent R. Hickman).
 
+Find your college list here:
+
+`the link`
+
 ## FAQ
 
+How do I use College Move?
+
+Does College Move collect my data?
+ 
+Where can I find the source data?
 
 
 ```markdown
