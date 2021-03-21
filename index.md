@@ -15,9 +15,9 @@ These data come from IPEDS (Integrated Postsecondary Education Data System), a g
 # FAQ
 
 ## How do I use College Move?
-Click [this link](https://collegemove.sardija.repl.co/), then choose 4 reach schools, 2 target schools, and 2 safety schools:  
+Head over to [this link](https://collegemove.sardija.repl.co/), and explore schools using the filters available. We recommend that you  choose 4 reach schools, 2 target schools, and 2 safety schools. 
 **[https://collegemove.sardija.repl.co/](https://collegemove.sardija.repl.co/)**  
-By default, the lists in each category will show the best overall colleges first. If for any reason, a college is not a good fit for you, you can scroll down to the next best college in that category. You can also personalize these lists using filters.
+By default, the lists in each category will show the colleges that ranked best overall in our analyses first. If you don't feel that a particular college is not a good fit for you, you can scroll down to check out the next best college in that category. You can also personalize these lists using filters.
 
 ## Does College Move collect my data?
 No. We tailor college lists based on generic criteria that you can change in the filters. We do not ask for any personal information or otherwise collect any data to filter the College Move list.
