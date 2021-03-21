@@ -38,3 +38,4 @@ No. We tailor college lists based on generic criteria that you can change in the
 The [IPEDS (Integrated Postsecondary Education Data System)](https://nces.ed.gov/ipeds/datacenter/InstitutionByName.aspx?goToReportId=1).
 
 ## What's the point of helping community college students create a college list?
+2 out of 3 high-ability, low-income community college students who could have transferred to a selective college instead end up ‘under-matched’ to a less selective college due to a lack of guidance on where to apply to college. This lost potential not only impacts these college students personally, but society as a whole. The Harvard economist Raj Chetty calculated that 75% of innovation in America is lost due to the wasted potential of women, people of color, and low-income people.
